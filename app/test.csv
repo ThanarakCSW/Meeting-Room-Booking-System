@@ -1,0 +1,6 @@
+name,capacity,facilities,is_vip,status
+"Focus Room A",4,"Wifi,Whiteboard",false,active
+"Conference Hall",20,"Wifi,Projector,Video Conf",false,active
+"VIP Lounge",8,"Wifi,Bar,Lounge Seating",true,active
+"Huddle Space",6,"Wifi",false,active
+"Maintenance Closet",0,"",false,maintenance
